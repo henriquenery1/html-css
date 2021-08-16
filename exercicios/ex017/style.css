@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background-color: lightblue;
+    font-size: x-large;
+    text-align: center;
+}
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: white;
+    text-align: left;
+}
